@@ -1,3 +1,3 @@
 # InAndOut
 
-C# .Net Core MVC practice app
+Design REST APIs using C#, .Net Core 6, Entity Framework (SQL server). 
